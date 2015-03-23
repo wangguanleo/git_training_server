@@ -1,3 +1,3 @@
 # git_training_server
-i am dev2
+i am dev
 i start to work
